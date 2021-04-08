@@ -1,10 +1,9 @@
-{
-    "posts": [
-      {
-        "id": 1,
-        "title": "hello"
-      }
-    ],
+{ 
+    "users": [{
+      "id": "1",
+      "login": "admin",
+      "password": "admin" 
+    }],
     "profile": {
       "name": "typicode"
     }
